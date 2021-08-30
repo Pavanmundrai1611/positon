@@ -1,0 +1,38 @@
+   .div1{
+      width:600px;
+      height: 500px;
+      background-color:red;
+      position:relative;
+      top:120px;
+      left:500px;
+     
+   }
+   .text1{
+     position:absolute;
+     top:47px;
+     left: 278px;
+   }
+   .text2{
+    position: absolute;
+    top:71px;
+    left:85px;
+  }
+    .div2{
+        background-color: aqua;
+        width:200px;
+        height:200px;
+        text-align: center;
+        position:absolute;
+        top: 146px;
+        left: 194px;
+    }
+    .div3{
+      background-color: black;
+      color:white;
+      position:absolute;
+      top:88px;
+      left:68px;
+    }
+    body{
+      background-color: blueviolet;
+    }
